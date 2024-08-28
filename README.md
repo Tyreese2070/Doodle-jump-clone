@@ -13,4 +13,4 @@ Super Jump, Forcefield
 Collect apples for extra score at the end
 
 Issues:
-Text is misaligned on many screens
+Text is misaligned on some screens

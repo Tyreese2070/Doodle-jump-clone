@@ -1,4 +1,6 @@
 # Doodle-jump-clone (Jumping Man)
+Claude Test
+
 A-Level Computer Science Project, since reworked into a more polished endless climber.
 Requires Python 3 with `pygame` or `pygame-ce` (`pip install pygame-ce`).
 
